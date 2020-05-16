@@ -1,0 +1,40 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "static/runtime/main.js": 2,
+      "static/runtime/polyfills.js": 3,
+      "static/up-JyaYfKudfCpykWAA9g/pages/_app.js": 4,
+      "static/up-JyaYfKudfCpykWAA9g/pages/_error.js": 5,
+      "static/up-JyaYfKudfCpykWAA9g/pages/about.js": 6,
+      "static/up-JyaYfKudfCpykWAA9g/pages/index.js": 7,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/_app.js": 8,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/_error.js": 9,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/about.js": 10,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/agent.js": 11,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/index.js": 12,
+      "static/0c1YsCn688CyzU7OwbRw-/pages/_app.js": 4,
+      "static/0c1YsCn688CyzU7OwbRw-/pages/_error.js": 5,
+      "static/0c1YsCn688CyzU7OwbRw-/pages/about.js": 6,
+      "static/0c1YsCn688CyzU7OwbRw-/pages/agent.js": 7,
+      "static/0c1YsCn688CyzU7OwbRw-/pages/index.js": 13
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      13,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

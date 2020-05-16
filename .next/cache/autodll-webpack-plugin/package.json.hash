@@ -1,0 +1,1 @@
+{"name":"hello-next","version":"1.0.0","main":"index.js","license":"MIT","scripts":{"dev":"next","build":"next build","start":"next start"},"dependencies":{"next":"^9.1.6","react":"^16.12.0","react-dom":"^16.12.0"},"readme":"ERROR: No README data found!","_id":"hello-next@1.0.0"}

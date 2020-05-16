@@ -1,0 +1,48 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/about.js": 0,
+      "multi private-next-pages/index.js": 1,
+      "multi next/dist/pages/_app": 2,
+      "multi next/dist/pages/_error": 3,
+      "multi next/dist/pages/_document": 4,
+      "multi private-next-pages/agent.js": 5
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static/up-JyaYfKudfCpykWAA9g/pages/_app.js": 2,
+      "static/up-JyaYfKudfCpykWAA9g/pages/_document.js": 3,
+      "static/up-JyaYfKudfCpykWAA9g/pages/_error.js": 4,
+      "static/up-JyaYfKudfCpykWAA9g/pages/about.js": 5,
+      "static/up-JyaYfKudfCpykWAA9g/pages/index.js": 6,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/_app.js": 7,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/_document.js": 8,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/_error.js": 9,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/about.js": 10,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/agent.js": 11,
+      "static/sva5vIs_Ww1nDLhSJvAse/pages/index.js": 12
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      7,
+      8,
+      9
+    ]
+  }
+}
